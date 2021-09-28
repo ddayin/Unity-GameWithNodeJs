@@ -1,0 +1,27 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "unity game with nodejs server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ddayin/Unity-GameWithNodeJs.git"
+  },
+  "keywords": [
+    "unity",
+    "game",
+    "server"
+  ],
+  "author": "ddayin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddayin/Unity-GameWithNodeJs/issues"
+  },
+  "homepage": "https://github.com/ddayin/Unity-GameWithNodeJs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
