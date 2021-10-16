@@ -5,3 +5,6 @@ Tech specification
 - Unity
 - node.js
 - MySQL
+
+My Goal
+- Learn how to communicate with server.
